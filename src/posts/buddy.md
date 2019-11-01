@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Buddy
+title: Introduction to Buddy
 metaTitle: The Best Kitty in the World
 metaDesc: ''
 socialImage: /images/buddy-on-bed.png
